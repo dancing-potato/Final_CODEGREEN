@@ -82,6 +82,7 @@
 	                                    </tr>
 	                                    <tr><td colspan="2"><textarea name="board_content" id="editor"></textarea></td></tr>
 	                                   
+					   <!--이부분을 어떻게 업그레이드 해볼것인가 -->
 	                                   <!-- 파일 업로드 부분 -->
 	                                    <tr>
 	                                    	<td colspan="2"><input type="file" id="file_1" name="file_1"></td>

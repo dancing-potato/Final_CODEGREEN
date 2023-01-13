@@ -125,7 +125,7 @@
 		                            </table>
 		                        </div>
                         
-                  <!-- 검색 부분  -->
+                    <!-- 검색 부분  -->
                     <div id="widget-search-select-together">
 		                 <form class="ps-form--widget-search" action="CommunityList.bo" method="get">
 	                         <select name="searchType" required>
@@ -147,8 +147,8 @@
 	               		</div>
                     </div>
                    	
-   		 			<!-- 페이징 버튼들 시작 -->
-   		 			<%PageInfo pageInfo = (PageInfo)request.getAttribute("pageInfo"); %>
+   		    <!-- 페이징 버튼들 시작 -->
+   		    <%PageInfo pageInfo = (PageInfo)request.getAttribute("pageInfo"); %>
                     <div class="ps-pagination">
                         <ul class="pagination">
                             <li><%if(pageInfo.getPageNum() > pageInfo.getStartPage()) {%><a href="CommunityList.bo?pageNum=${pageInfo.pageNum - 1}&searchType=${searchType }&keyword=${keyword}"><%}%><i class="icon-chevron-left"></i>Prev</a></li>

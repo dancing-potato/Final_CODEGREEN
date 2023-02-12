@@ -31,8 +31,18 @@
                 신고내역
   * 메인페이지,카테고리별 배너 및 헤더, 푸터 제작              
   
+---  
+- ERD 
+![테이블](https://user-images.githubusercontent.com/105136541/218317234-d0a13d06-9d2b-4f6f-afe3-d59280737b43.jpg)
+
 ---
 - 메인화면
 ![베지터틀메인2-1](https://user-images.githubusercontent.com/105136541/218114234-918576e2-e390-4614-a29c-df9bef238291.jpg)
----
+
+- 브랜드별 페이지 : 상품리스트 멀티체크박스
+![멀티체크박스](https://user-images.githubusercontent.com/105136541/218317195-4354c61c-0096-41b0-a2e4-add71606e69a.jpg)
+
+- 브랜드별 페이지 : 브랜드 팔로우 / 언팔로우
+---![팔로우브랜드](https://user-images.githubusercontent.com/105136541/218317178-ba7cdff0-37e3-4e51-a55d-5746944175d1.jpg)
+
 

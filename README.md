@@ -43,6 +43,15 @@
 ![멀티체크박스](https://user-images.githubusercontent.com/105136541/218317195-4354c61c-0096-41b0-a2e4-add71606e69a.jpg)
 
 - 브랜드별 페이지 : 브랜드 팔로우 / 언팔로우
----![팔로우브랜드](https://user-images.githubusercontent.com/105136541/218317178-ba7cdff0-37e3-4e51-a55d-5746944175d1.jpg)
+-![팔로우브랜드](https://user-images.githubusercontent.com/105136541/218317178-ba7cdff0-37e3-4e51-a55d-5746944175d1.jpg)
+
+- 커뮤니티 게시판 (api)
+![본인글만수정삭제가능](https://user-images.githubusercontent.com/105136541/218490836-bf707734-40fc-46b9-aebe-72bef66062df.jpg)
+
+- 커뮤니티 게시판 (신고하기, 추천하기, 댓글대댓글)
+![신고추천댓글대댓글](https://user-images.githubusercontent.com/105136541/218490841-4b5e38c5-91f3-47e3-8561-3d0e9a85552c.jpg)
+
+- 커뮤니티 게시판 (신고팝업창)
+![신고창](https://user-images.githubusercontent.com/105136541/218490839-8dfc7bf4-4975-40bc-9a03-ab79fbeaed15.jpg)
 
 

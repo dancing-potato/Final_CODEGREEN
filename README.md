@@ -1,4 +1,5 @@
 # VEGE-TURTLE : 베지터틀
+>
 - 채식지향 사용자들을 위한 정보공유 커뮤니티와 샵인샵 형태의 비건관련식품 쇼핑몰 웹 서비스 
 - 개발기간 : 2022.10 ~ 2022.12 ( 2개월 )
 - 개발인원 : 6명 ( 팀 프로젝트 )
@@ -10,7 +11,9 @@
   * 개발툴 : Apache Tomcat 9.0 , STS4, MySQL
   * 형상관리 : GitHub
   * API, 라이브러리 : CKEditor API, RESTful API(JSON)
- 
+ >
+ - 주소 : http://itwillbs17.cafe24.com/Code_Green/
+ >
 - 담당구현 기능 / Spring Framework를 이용, 샵인샵 쇼핑몰 형태 및 커뮤니티 웹서비스 구현
   * 브랜드별 상품리스트 : JSON , 동적 쿼리를 이용한 멀티체크박스 기능
   * 브랜드 팔로우 / 언팔로우 : 개인회원의 브랜드 팔로우/ 언팔로우 기능, 팔로우 상태표시 및 실시간 팔로워 수 표시가능
@@ -52,6 +55,9 @@
 ![신고추천댓글대댓글](https://user-images.githubusercontent.com/105136541/218490841-4b5e38c5-91f3-47e3-8561-3d0e9a85552c.jpg)
 
 - 커뮤니티 게시판 (신고팝업창)
+>
 ![신고창](https://user-images.githubusercontent.com/105136541/218490839-8dfc7bf4-4975-40bc-9a03-ab79fbeaed15.jpg)
 
 
+- 마이페이지 주문내역페이지 
+![주문내역페이지](https://user-images.githubusercontent.com/105136541/219060846-52b59425-d72c-435d-b0df-f3d96aa12d57.jpg)
